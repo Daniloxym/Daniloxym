@@ -16,15 +16,12 @@ motivated to continue growing professionally in the field of web development.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
+- 💻 I am a self taught front-end Developer
+- 📚 I have a Bachelors in Computer Science from the Universidad de Cartagena in Colombia.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+- 👯 I’m looking to collaborate on front-end and back-end projects
+- 🤔 I’m currently open for: An Intern or a new job opportunity
+- 📫 How to reach me: daniolip2021@gmail.com
 
 <br/>
 ## 🛠️ My Skills
