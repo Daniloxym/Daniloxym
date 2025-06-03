@@ -48,19 +48,6 @@ motivated to continue growing professionally in the field of web development.
 ![Linux](https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
 
 
-
-
-
-
-<p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
-</p>
-
 ----
 
 
