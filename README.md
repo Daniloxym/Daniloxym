@@ -7,9 +7,12 @@ Hi, I'm Danilo Olivos!
 <h3 font-size="20" align="center">A passionate front-end developer from Colombia.</h3>
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+
+Systems Engineer with a specialization in front-end web development technologies.
+I have approximately 1.5 years of hands-on experience using HTML5, CSS3, Tailwind,
+JavaScript, and TypeScript, as well as knowledge of the React framework. I am known for
+being a committed individual focused on continuous learning, results-oriented, and highly
+motivated to continue growing professionally in the field of web development.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
